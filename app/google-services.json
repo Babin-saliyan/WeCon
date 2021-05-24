@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141984017770",
+    "project_id": "wecon-45ed5",
+    "storage_bucket": "wecon-45ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141984017770:android:4470a6d512541fb8584913",
+        "android_client_info": {
+          "package_name": "com.example.wecon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141984017770-gag38jq9uf9tr9c1skdkuqqtc7dnk905.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmZKyYhTVQYGFAY9cnaKHWSwByfVsI23Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141984017770-gag38jq9uf9tr9c1skdkuqqtc7dnk905.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
